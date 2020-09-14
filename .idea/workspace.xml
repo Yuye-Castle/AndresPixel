@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5912926d-61df-44da-b9b1-9c31bb1fa1a7" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1hHfyos3dsitPn25FyvOESvu7sB" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../08_fashion/mmfashion-master" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pix2pixHD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/pix/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="--name label2city_1024p --netG local --ngf 8 --resize_or_crop none" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pix2pixHD" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="$USER_HOME$/anaconda3/envs/pix/bin/python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="--name label2city_512p" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.train" />
+    </list>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5912926d-61df-44da-b9b1-9c31bb1fa1a7" name="Default Changelist" comment="" />
+      <created>1599673195247</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599673195247</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="451" y="210" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1599833900162">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="451" y="210" width="1084" height="736" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1853.1053@67.27.1853.1053" timestamp="1599833900162" />
+    <state x="776" y="323" width="424" height="484" key="FileChooserDialogImpl" timestamp="1599836126660">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="323" width="424" height="484" key="FileChooserDialogImpl/67.27.1853.1053@67.27.1853.1053" timestamp="1599836126660" />
+    <state width="1830" height="233" key="GridCell.Tab.0.bottom" timestamp="1600057392315">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="233" key="GridCell.Tab.0.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1600057392315" />
+    <state width="1830" height="233" key="GridCell.Tab.0.center" timestamp="1600057392314">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="233" key="GridCell.Tab.0.center/67.27.1853.1053@67.27.1853.1053" timestamp="1600057392314" />
+    <state width="1830" height="233" key="GridCell.Tab.0.left" timestamp="1600057392314">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="233" key="GridCell.Tab.0.left/67.27.1853.1053@67.27.1853.1053" timestamp="1600057392314" />
+    <state width="1830" height="233" key="GridCell.Tab.0.right" timestamp="1600057392314">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="233" key="GridCell.Tab.0.right/67.27.1853.1053@67.27.1853.1053" timestamp="1600057392314" />
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom" timestamp="1599739435312">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.bottom/67.27.1853.1053@67.27.1853.1053" timestamp="1599739435312" />
+    <state width="1830" height="344" key="GridCell.Tab.1.center" timestamp="1599739435311">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.center/67.27.1853.1053@67.27.1853.1053" timestamp="1599739435311" />
+    <state width="1830" height="344" key="GridCell.Tab.1.left" timestamp="1599739435311">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.left/67.27.1853.1053@67.27.1853.1053" timestamp="1599739435311" />
+    <state width="1830" height="344" key="GridCell.Tab.1.right" timestamp="1599739435312">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state width="1830" height="344" key="GridCell.Tab.1.right/67.27.1853.1053@67.27.1853.1053" timestamp="1599739435312" />
+    <state x="482" y="187" key="SettingsEditor" timestamp="1599827902645">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="482" y="187" key="SettingsEditor/67.27.1853.1053@67.27.1853.1053" timestamp="1599827902645" />
+    <state x="903" y="397" width="618" height="522" key="find.popup" timestamp="1599968676943">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="903" y="397" width="618" height="522" key="find.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1599968676943" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>52</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
